@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
-
+ 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
 os.system('rm -rf .txt')
 for n in range(50000):
@@ -53,7 +53,7 @@ def cb():
 ##### Dev : Beenam
 ##### LOGO #####
 logo='''
-
+ 
 \033[1;91md8888b. d88888b d88888b d8b   db  .d8b.  .88b  d88. 
 \033[1;91m88  `8D 88'     88'     888o  88 d8' `8b 88'YbdP`88 
 \033[1;95m88oooY' 88ooooo 88ooooo 88V8o 88 88ooo88 88  88  88 
@@ -75,7 +75,7 @@ logo='''
 \x1b[1;91m=======================================
 \x1b[1;95m     ➾ SPEED CLONING 5 SECOND AIRPLANE MODE ON
 \x1b[1;91m======================================= '''                                                                                                                                                                                                                                                                                                                                                  
-
+ 
 CorrectUsername = "BEENAM"
 CorrectPassword = "BADSHAH"
  
@@ -94,8 +94,8 @@ while (loop == 'true'):
     else:
         print "\033[1;94mWrong Username"
         os.system('xdg-open https://www.facebook.com/101635275268527/posts/170036675095053/?app=fbl')
-
-
+ 
+ 
 back = 0
 successful = []
 cpb = []
@@ -310,3 +310,4 @@ def action():
 if __name__ == '__main__':
 	menu()
 	
+ 
