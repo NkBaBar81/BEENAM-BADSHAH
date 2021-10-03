@@ -60,7 +60,12 @@ logo='''
 \033[1;95m88~~~b. 88~~~~~ 88~~~~~ 88 V8o88 88~~~88 88  88  88 
 \033[1;92m88   8D 88.     88.     88  V888 88   88 88  88  88 
 \033[1;92mY8888P' Y88888P Y88888P VP   V8P YP   YP YP  YP  YP 
-                                                                                                       
+               
+
+
+
+
+                                                                                        
 \033[1;91m.___.__    __          .        
 \033[1;92m[__ [__)  /  `._. _. _.;_/ _ ._.
 \033[1;95m|   [__)  \__.[  (_](_.| \(/,[  
@@ -69,7 +74,7 @@ logo='''
 \x1b[1;93m.    Author : BEENAM BADSHAH
 \x1b[1;93m     BOSS   :     BADSHAH
 \x1b[1;93m     FaceBook: BEENAM BADSHAH
-\x1b[1;93m      NAMAZ KI PABANDI KAREEN 
+\x1b[1;93m     NAMAZ KI PABANDI KAREEN 
 \x1b[1;92m.  =============================
 \x1b[1;93m     ➾       NOTE !
 \x1b[1;91m=======================================
@@ -104,7 +109,7 @@ id = []
 def menu():
 	os.system('clear')
 	print logo
-	print "\033[1;99m         [ USAMA KHAN{ Z44N L44 SUB4 Y44M } ]"
+	print "\033[1;99m         [Beenam Badshah]"
 	print
         print "\033[1;91m          SELECT ANY ONE SIM NETWORK"
 	print "\033[1;92m[1]\033[1;91m╼╼\033[1;93mMOBILINK     (Press 1)"
